@@ -13,13 +13,33 @@
             </div>
         </header>
 
-        <section>
+        <section id="main-image">
             <div class="wrapper">
+                <h2>La <strong>communaute</strong> qu'il vous faut</h2>
+                <a class="button-main" href="">Join us</a>
             </div>
         </section>
 
-        <section>
+        <section id="step">
             <div class="wrapper">
+                <ul>
+                    <li id="step-1">
+                        <h4></h4>
+                        <p></p>
+                    </li>
+                </ul>
+                <ul>
+                    <li id="step-2">
+                        <h4></h4>
+                        <p></p>
+                    </li>
+                </ul>
+                <ul>
+                    <li id="step-3">
+                        <h4></h4>
+                        <p></p>
+                    </li>
+                </ul>
             </div>
         </section>
 
