@@ -1,8 +1,8 @@
 <div>
-    <h1>Psycho AC<span>.</span></h1>
+    <h1>Psycho AC<span class="point">.</span></h1>
     <nav>
         <ul>
-            <li><a>Accueil</a></li>
+            <li><a>Home</a></li>
             <li><a>Services</a></li>
             <li><a>Support group</a></li>
             <li><a>Consultation</a></li>

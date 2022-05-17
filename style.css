@@ -1,0 +1,59 @@
+/*Generale*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    color:#444;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #444;
+}
+.wragger{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.point{
+    color: #ff7a00;
+}
+
+/*header */
+header{
+    height: 120px;
+}
+
+header h1{
+    float: left;
+    margin-top: 32px;
+}
+
+header nav{
+    float: right;
+    margin-top: 50px;
+}
+
+header nav ul li{
+    float: left;
+    display: inline-block;
+}
+
+header nav ul li a{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}

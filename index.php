@@ -3,12 +3,13 @@
     <head>
         <title>Psycho_AC</title>
         <meta charset="utf-8">
+        <link href="style.css" rel="stylesheet">
     </head>
 
     <body>
         <header>
             <div class="wrapper">
-                <?php include menu.php?>
+                <?php include "menu.php"?>
             </div>
         </header>
 
