@@ -8,7 +8,7 @@
             <li><a href="">Forum</a></li>
             <li><a href="">About</a></li>
             <li><a href="">Sign in</a></li>
-            <li><a href="">Sign up</a></li>
+            <li><a href="" class="sign">Sign up</a></li>
         </ul>
     </nav>
     

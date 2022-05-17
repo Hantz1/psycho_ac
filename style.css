@@ -20,6 +20,15 @@ h2{
     font-size: 55px;
 }
 
+h4{
+    font-size: 24px;
+    color: #777;
+}
+p{
+    line-height: 20px;
+    color: #777;
+}
+
 ul{
     list-style: none;
 }
@@ -34,9 +43,16 @@ a{
     padding: 0 10px;
 }
 .point{
-    color: #ff7a00;
+    color: #02b8dd;;
 }
 
+.clear{
+    clear: both;
+}
+small{
+    font-size: 13px;
+    font-style: italic;
+}
 /*header */
 header{
     height: 120px;
@@ -61,6 +77,19 @@ header nav ul li a{
     text-transform: uppercase;
     font-weight: bold;
     margin-right: 20px;
+}
+
+.sign{
+    background: #777;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+.sign:hover{
+    background: #02b8dd;
 }
 
 /*Main image*/
@@ -89,9 +118,88 @@ header nav ul li a{
     text-align: center;
     border-radius: 3px;
 }
+.button-main:hover{
+    background: #02b8dd;
+}
 
-/* */
+/* Steps*/
+#step ul{
+    margin: 80px 0;
+}
+#step ul li{
+    width: 300px;
+    float: left;
+    padding-top: 140px;
+    text-align: center;
+    margin-right: 10px;
+}
 
+#step h4{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#step p{
+    margin-bottom: 20px;
+}
+
+#step-1{
+    background: url();
+}
+#step-2{
+    background: url();
+}
+#step-3{
+    background: url();
+}
+
+/* Staff */
+#staff{
+    background-color: #efefef;
+    padding: 60px 0;
+}
+#staff article{
+    width: 406px;
+    height: 270px;
+    float: left;
+    border-radius: 10px;
+}
+
+#staff article:first-child{
+    margin-right: 20px;
+}
+
+.overlay{
+    background: rgba(255, 255, 255, 0.95);
+    height: 100%;
+    width: 190px;
+    padding: 20px;
+    border-radius: 10px 0 0 10px;
+    text-align: center;
+}
+article h4{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#staff p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.join{
+    color: #fff;
+    background-color: #ff7a00;
+    border-radius: 3px;
+}
+
+.join:hover{
+    color: #fff;
+    background-color: #02b8dd;
+}
 /*Footer */
 footer{
     height: 260px;

@@ -24,30 +24,46 @@
             <div class="wrapper">
                 <ul>
                     <li id="step-1">
-                        <h4></h4>
-                        <p></p>
+                        <h4>Consultation</h4>
+                        <p>Prendre rendez-vous avec nos personnels de sante si vous sentez le besoin d'etre assister par un specialiste.</p>
                     </li>
                 </ul>
                 <ul>
                     <li id="step-2">
-                        <h4></h4>
-                        <p></p>
+                        <h4>Live</h4>
+                        <p>Suivez et participez à nos diffusion en direct sur des sujet pouvant vous aider et inspirer à aller de l'avant.</p>
                     </li>
                 </ul>
                 <ul>
                     <li id="step-3">
-                        <h4></h4>
-                        <p></p>
+                        <h4>Forum</h4>
+                        <p>Rencontrer des gens et faites vous du bien en partageant vos peines sur nos forum de discution dédie a vos besoins.</p>
                     </li>
+                    <div class="clear"></div>
                 </ul>
             </div>
         </section>
 
-        <section>
+        <section id="staff">
             <div class="wrapper">
-            </div>
-        </section>
+               <article>
+                   <div class="overlay">
+                       <h4>Louis Rejy</h4>
+                       <p><small>Docteur specialiste</small></p>
+                       <a href="" class="join">Join</a>
+                   </div>
+                   
+               </article>
 
+               <article>
+                   <div class="overlay">
+                       <h4>Joseph Nehemie</h4>
+                       <p><small>Docteur specialiste</small></p>
+                       <a href="" class="join">Join</a>
+                   </div>
+               </article>
+               <div class="clear"></div>
+        </section>
         <section>
             <div class="wrapper">
             </div>
